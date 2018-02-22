@@ -7,8 +7,8 @@ In this case `cat /proc/version` is hard coded.
 
 # Building
 
- * Clone the project `git clone git@github.com:bmcculley/c-clowning.git`
- * Navigate into this directory `cd c-clowning/run_system_commands` 
+ * Clone the project `git clone git@github.com:bmcculley/c-sampling.git`
+ * Navigate into this directory `cd c-sampling/run_system_commands` 
  * Run `make`
 
 # Using

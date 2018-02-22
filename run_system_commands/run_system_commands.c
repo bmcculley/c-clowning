@@ -4,7 +4,7 @@
  *
  * Created by bmcculley
  * Find this and other c snippets here:
- * https://github.com/bmcculley/c-clowning
+ * https://github.com/bmcculley/c-sampling
  */
 #include <stdio.h>
 #include <stdlib.h>

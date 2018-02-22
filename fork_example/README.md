@@ -6,8 +6,8 @@ then exits.
 
 # Building
 
- * Clone the project `git clone git@github.com:bmcculley/c-clowning.git`
- * Navigate into this directory `cd c-clowning/fork_example` 
+ * Clone the project `git clone git@github.com:bmcculley/c-sampling.git`
+ * Navigate into this directory `cd c-sampling/fork_example` 
  * Run `make`
 
 # Using

@@ -8,8 +8,8 @@ it.
 
 # Building
 
- * Clone the project `git clone git@github.com:bmcculley/c-clowning.git`
- * Navigate into this directory `cd c-clowning/wait_example` 
+ * Clone the project `git clone git@github.com:bmcculley/c-sampling.git`
+ * Navigate into this directory `cd c-sampling/wait_example` 
  * Run `make`
 
 # Using

@@ -6,8 +6,8 @@ just print the number.
 
 # Building
 
- * Clone the project `git clone git@github.com:bmcculley/c-clowning.git`
- * Navigate into this directory `cd c-clowning/fizzbuzz` 
+ * Clone the project `git clone git@github.com:bmcculley/c-sampling.git`
+ * Navigate into this directory `cd c-sampling/fizzbuzz` 
  * Run `make`
 
 # Using
