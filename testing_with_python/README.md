@@ -14,4 +14,4 @@ write unit tests.
 
 # Running the test
 
-python test.py
+make test
