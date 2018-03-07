@@ -10,7 +10,7 @@ write unit tests.
  * Run `make`
  * Setup a virtualenv, activate and run `pip install -r requirements.txt`
 
-#### Note: You'll need to install python devel to run the test.
+**Note:** You'll need to install python devel to run the test.
 
 # Running the test
 
